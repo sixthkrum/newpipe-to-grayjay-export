@@ -4,7 +4,7 @@ PipePipe: 4.2.3
 NewPipe: 0.27.6
 Grayjay: 285
 
-Converter for [NewPipe](https://github.com/TeamNewPipe/NewPipe) exports (tested for [PipePipe](https://github.com/InfinityLoop1308/PipePipe) exports too), converts them to [Grayjay](https://gitlab.futo.org/videostreaming/grayjay) imports
+Converter for [NewPipe](https://github.com/TeamNewPipe/NewPipe) exports (tested for [PipePipe](https://github.com/InfinityLoop1308/PipePipe) exports too), converts them to [Grayjay](https://gitlab.futo.org/videostreaming/grayjay) exports
 
 Caveats etc.:
 1. Grayjay only exports 2000 history entries, so keep all the original exports from NewPipe or PipePipe around
